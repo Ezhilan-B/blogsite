@@ -1,0 +1,13 @@
+body{
+    font-family: 'Chelsea Market', cursive,Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image img{
+    width: 400px;
+    border-radius: .5rem ;
+}
+
+.card img{
+    width: 300px;
+    height: 245px;
+}
